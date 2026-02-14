@@ -235,6 +235,12 @@ header {
       }
     }
   }
+
+  /* Reproductor de audio nativo en el header */
+  .header-audio {
+    width: 200px;
+    height: 30px;
+  }
 }
 /* ==========================
    SECCIÓN HERO (cabecera principal)
@@ -758,7 +764,6 @@ header {
     height: 100%;
     border: 0;
   }
-  
 }
 
 /* ==========================
